@@ -1,0 +1,56 @@
+{
+  "experiences": [
+    {
+      "title": "Software Developer",
+      "subtitle": "Balance Nutrition",
+      "workDescription": [
+        "Specializations: ReactJS, NodeJS, ExpressJS, PHP with MySQL",
+        "API Development: Creating RESTful APIs for Android and iOS applications",
+        "Full-Stack Development: Engaging in full-stack web development",
+        "Logical Frameworks: Building complex logical frameworks to meet project requirements",
+        "Functionality and Integration: Ensuring seamless functionality and integration",
+        "Version Control: Utilizing tools like Git and GitHub for efficient code management"
+      ],
+      "dateText": "10/2023 – Present"
+    },
+    {
+      "title": "Software Developer",
+      "subtitle": "Aniruddha Telemetry Systems",
+      "workDescription": [
+        "Actively contributed to software development initiatives",
+        "Undertook leadership duties as a Team Lead within a team of four members",
+
+        "Successfully managed projects despite a junior role",
+        "Coordinated efforts and ensured the delivery of expected outcomes",
+
+        "Directly engaged with clients to gather project requirements",
+        "Translated client requirements into actionable development strategies",
+        "Delivered results that aligned with client expectations"
+      ],
+      "dateText": "08/2022 – 09/2023"
+    },
+    {
+      "title": "ReactJS intern",
+      "subtitle": "PixelNet Solutions",
+      "workDescription": [      
+        "Contributed to front-end development by building dynamic and responsive user interfaces",
+        "Collaborated closely with senior developers to implement best practices and improve code quality",
+        "Translated design mockups into functional components",
+        "Optimized application performance",
+        "Fixed bugs"
+      ],
+      "dateText": "07/2022 – 08/2022"
+    },
+    {
+        "title": "Python AI / ML intern",
+        "subtitle": "Elite Techno Groups",
+        "workDescription": [      
+            "Worked on basic tasks for an inventory management system",
+            "Helped integrate these models into the existing system",
+            "Contributed to minor improvements in functionality and efficiency",
+            "Gained foundational experience in Python and machine learning"
+        ],
+        "dateText": "08/2021 – 09/2021"
+      }
+  ]
+}

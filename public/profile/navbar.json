@@ -1,0 +1,29 @@
+{
+  "logo": {
+    "source": "images/logo.png",
+    "height": 100,
+    "width": 150
+  },
+  "sections": [
+    {
+      "title": "Home",
+      "href": "/"
+    },
+    {
+      "title": "About",
+      "href": "/about"
+    },
+    {
+      "title": "Skills",
+      "href": "/skills"
+    },
+    {
+      "title": "Experience",
+      "href": "/experience"
+    },
+    {
+      "title": "Projects",
+      "href": "/projects"
+    }
+  ]
+}

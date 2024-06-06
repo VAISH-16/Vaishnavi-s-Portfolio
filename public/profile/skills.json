@@ -1,0 +1,73 @@
+{
+  "intro": "In the world of web development, the only limit is imagination. With every line of code, I believe in shaping the digital landscape and creating experiences that connect, inspire, and transform.",
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
+        {
+          "icon": "images/skills/php.png",
+          "title": "PHP"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/python.png",
+          "title": "Python"
+        },
+        {
+          "icon": "images/skills/mysql.png",
+          "title": "MySQL"
+        },
+        {
+            "icon": "images/skills/mssql.png",
+            "title": "MS-SQL"
+          }
+      ]
+    },
+    {
+      "title": "Frameworks & Technologies",
+      "items": [
+        {
+          "icon": "images/skills/django.png",
+          "title": "Django"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Nodejs"
+        },
+
+        {
+          "icon": "images/skills/codeigniter.png",
+          "title": "Codeigniter"
+        },
+          {
+            "icon": "images/skills/bootstrap.jpg",
+            "title": "Bootstrap"
+          }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/github.jpg",
+          "title": "GitHub"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/Trello.png",
+          "title": "Trello"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Mentor",
+      "bodyText": "The “Mentor Website for Online Course Enrollment” is an online platform built with Python, Django, HTML, CSS, and Bootstrap. It connects learners with experienced mentors, offering a variety of courses. The platform features a secure payment gateway for hassle-free transactions, providing a seamless learning experience. 😊",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/VAISH-16/Mentor"
+        }
+      ],
+      "tags": ["Python", "Django", "JavaScript", "HTML", "CSS", "BootStrap"]
+    },
+    {
+      "image": "images/projects/caaring-poster.png",
+      "title": "Petshop E-Commerce Plateform",
+      "bodyText": "Explore the Pet Product Shopping E-Commerce Application, a one-stop solution for all pet-related needs. Built with Python, Django, HTML, CSS, and Bootstrap, this platform offers a wide range of pet products and a seamless shopping experience with integrated payment gateways.😊",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/VAISH-16/Petshop"
+        }
+      ],
+      "tags": ["Python", "Django", "JavaScript", "HTML", "CSS", "BootStrap"]
+    },
+    {
+      "image": "images/projects/quiet-hours-poster.jpg",
+      "title": "Nutricare",
+      "bodyText": "NutriCare: A user-friendly website built with HTML, CSS, and Bootstrap, showcasing modern web design principles.😊",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/VAISH-16/NUTRICARE-Website"
+        },
+        {
+          "text": "live",
+          "href": "https://nutricare-website.vercel.app/"
+        }
+      ],
+      "tags": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "title": "Face Detection Counter for Pandemic Situation",
+      "bodyText": "The Face Detection Counter is a real-time tool that uses live camera feeds and images to detect and count faces. If more than five faces are detected, it displays a 'PLEASE MAINTAIN SOCIAL DISTANCING' message, promoting safety during the pandemic. 😊",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/VAISH-16/Face-Detection-Counter-for-Pandemic-Situation"
+        }
+      ],
+      "tags": ["Python", "OpenCV"]
+    }
+  ]
+}

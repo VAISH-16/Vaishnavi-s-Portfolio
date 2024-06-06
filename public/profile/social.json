@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/vaishnavi-salunkhe/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/VAISH-16"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:salunkhevaishnavi2001.com"
+        }
+    ]
+}
